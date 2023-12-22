@@ -1,5 +1,14 @@
 # Interview Book Management System
 
+![Alt Text](/screenshots/screenshot1.png)
+
+## Screenshot
+- Check Screnshots at screenshot folder
+
+## Database
+- Database is in root folder as db.sql
+
+
 This repository is dedicated to the Interview Book Management System, a project designed with the following technologies:
 
 ## Frontend
@@ -14,15 +23,24 @@ This repository is dedicated to the Interview Book Management System, a project 
 ## Database
 - MYSQL
 
+
+
 ## Authors
 
 - [Heinrich Smith](https://www.github.com/heinirich)
 
 ## LOGINS
 
-- Website: [http://demo.heinrichsmith.com](http://demo.plotiten.com)
-- App login: [http://demo.heinrichsmith.com/login](http://demo.plotiten.com/login)
+- Student Login: [https://heinrichsmith.com/](https://heinrichsmith.com/)
+- Admin login: [https://heinrichsmith.com/login](https://heinrichsmith.com/login)
+    Admin
+    | Email                   | Password |
+    | ----------              | :------- |
+    | test@example.com        | 123456  |
 
-  | Email                   | Password |
-  | ----------              | :------- |
-  | test@example.com        | 12345678  |
+    Normal Student
+    
+    | ID                   | Password |
+    | ----------              | :------- |
+    | 120623        | 123456  |
+

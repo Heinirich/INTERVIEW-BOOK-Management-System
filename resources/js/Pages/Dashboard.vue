@@ -126,7 +126,7 @@ defineProps({
                         </svg>
                     </div>
                     <div class="text-right">
-                        <p class="text-2xl">${{ total.fines }}</p>
+                        <p class="text-2xl">Ksh{{ total.fines }}</p>
                         <p>Total Fines Received</p>
                     </div>
                 </div>
